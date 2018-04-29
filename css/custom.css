@@ -1,0 +1,31 @@
+#page.site {background-color: transparent;}
+#page h3, #page h2 a, body #page  {
+    color:#fff;
+}
+.header-image a img {
+    max-width: 600px;
+    margin: 0 auto;
+    display:block;
+    padding-top: 0;
+
+}
+
+article.post {
+    background-color: #211510;
+}
+
+.home .post .entry-footer {
+  display:none;
+
+}
+
+.home .post .post-thumbnail {
+    width:100%;
+}
+.home .post .entry-content {
+    display:none;
+}
+
+.home .post h2 a {
+ color: #f8b700 !important;
+}
